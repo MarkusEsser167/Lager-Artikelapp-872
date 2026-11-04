@@ -15,7 +15,7 @@ Tablet installiert ist.
 - **Lagerplatzänderung melden** – Artikelnummer, Art (**Hauptlagerplatz** oder **Referenzlagerplatz**,
   Pflichtauswahl), neuer Lagerplatz, Bemerkung. Wird beim Absenden sofort als Excel-Datei an
   `nuernberg@wego-vti.de` gemailt.
-- **Verschrottung melden** – Artikelnummer, Menge, Grund, bis zu 4 Fotos, Bemerkung. Wird beim Absenden
+- **Verschrottung melden** – Artikelnummer, Menge, Grund, mindestens 1 Pflichtfoto (bis zu 4 Fotos), Bemerkung. Wird beim Absenden
   sofort als PDF (mit allen Fotos eingebettet) an `markus.mueller@wego-vti.de` und
   `mirjam.poellinger@wego-vti.de` gemailt.
 - **Massen-Lagerplatzkorrektur** – zur Inventurvorbereitung: Artikel scannen, aktuellen Hauptlagerplatz
